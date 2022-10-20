@@ -1,0 +1,35 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-07-10 22:16:00.060336",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 1,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "OA",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "OA",
+   "link_type": "DocType",
+   "onboard": 0,
+   "only_for": "",
+   "type": "Card Break"
+  }
+ ],
+ "modified": "2022-07-17 23:56:07.427220",
+ "modified_by": "yuxinyong@163.com",
+ "module": "oa",
+ "name": "oa",
+ "owner": "admin@mizusho.cn",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+ ]
+}
